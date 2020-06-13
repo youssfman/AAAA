@@ -4,9 +4,9 @@ const client = new Discord.Client();
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("710614934647734302")
+let channel =     client.channels.get("721402151745880197")
 setInterval(function() {
-channel.send(`اخيرا ياولاد الوسخ اتعلمت هيروكو اخيرا يامعرصين  اغنيه مني ليكو احا الشبشب ضاع`);
+channel.send(`انا يوسفف مانيجا حد عندو مانع؟ قولولي وبس`);
 }, 30)
 })
 
